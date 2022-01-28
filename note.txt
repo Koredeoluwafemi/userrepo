@@ -18,3 +18,4 @@ What we'd like to see:
  Things considered or needed for go-live
  1. I need to connect system to db, store record and verify everytime a new record is to be inserted
  2. Write a test for the app(if I had more time)
+ 3. In my payload validation, I assume email to be the only unique identifier
